@@ -14,3 +14,8 @@ Features
 Real-Time Video Chat: Users can engage in live video conversations with each other.
 Peer-to-Peer Connections: Ensures low latency and high-quality video streaming.
 User-Friendly Interface: Designed with React.js and styled using Material-UI for a modern look and feel.
+
+IMAGE SCREENSHOT
+
+![image](https://github.com/user-attachments/assets/20c5b473-bfb9-41b4-af2a-38b9e509fb26)
+
